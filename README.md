@@ -25,6 +25,6 @@ The knowledge that was mined from the dataset could assist law enforcement in tr
 Not only does this mining effort answer initial questions stated above but it contributes to the development of new questions and targets for further mining efforts. One further question for example, “Is battery actually more prevalent in these areas per capita or is it a product of population?” In order to approach answering this secondary question we might attempt to move to higher dimensional levels in the lattice of the data cube method. We could potentially answer more detailed or specific questions to further assist law enforcement and researchers.
 
 
-### Link to the video demonstration
+### [Link to the video demonstration] (https://github.com/ddkingsley/4502_Group_2_Project/blob/master/Group2_Chicago_Crime_Part6_Video.mp4)
 
 ### Link to your final project paper
